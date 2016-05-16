@@ -1,1 +1,1 @@
-draw-graph-qt-c-
+Simple qt object to draw graph
